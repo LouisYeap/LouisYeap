@@ -1,6 +1,6 @@
 ## 我是LouisYeap
 
-- 🌹 I am a Golang&&Python developer🐵.
+- 🌹 I am a Java developer with two and a half years of practice 🐵.
 <!-- - 🏡 作品： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天🔥</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成✨</a>| <a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器🔍</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架🚀</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统✅</a>  -->
 - 🏡 作品： <a href="https://github.com/LouisYeap/Introduction-to-Golang" target="_blank">Golang之路🔥</a></a> 
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/weixin_62015493?spm=1000.2115.3001.5343)、[掘金💤](https://juejin.cn/) - 足够硬核，内容老狠了！
@@ -8,8 +8,8 @@
 
 ### ✨ 我的技能(my skills)   
 
-![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
-![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
+<!-- ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff) -->
+<!-- ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff) -->
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
@@ -51,7 +51,7 @@
 
 ### 🎉 Get in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/lhccong)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/LouisYeap#%E6%88%91%E6%98%AFlouisyeap)
 ### 交个朋友 👬🏻
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
