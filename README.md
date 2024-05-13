@@ -1,6 +1,6 @@
 ## 我是LouisYeap
 
-- 🌹 I am a Java developer with two and a half years of practice 🐵.
+- 🌹 I am a Golang&&Python developer with two and a half years of practice 🐵.
 <!-- - 🏡 作品： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天🔥</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成✨</a>| <a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器🔍</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架🚀</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统✅</a>  -->
 - 🏡 作品： <a href="https://github.com/LouisYeap/Introduction-to-Golang" target="_blank">Golang之路🔥</a></a> 
 - :pencil: 博客：[CSDN💬](https://blog.csdn.net/weixin_62015493?spm=1000.2115.3001.5343)、[掘金💤](https://juejin.cn/) - 足够硬核，内容老狠了！
