@@ -1,57 +1,65 @@
-## 我是LouisYeap
+# <div align="center">
 
-- 🌹 I am a Golang&&Python developer 🐵.
-<!-- - 🏡 作品： <a href="https://github.com/lhccong/we-go" target="_blank">微狗实时聊天🔥</a> | <a href="https://github.com/lhccong/short-link-dog-backend" target="_blank">短链狗短链生成✨</a>| <a href="https://github.com/lhccong/sql-slow-mirror" target="_blank">SQL 慢查询分析器🔍</a> | <a href="https://github.com/lhccong/CRPC" target="_blank">轻量级RPC框架🚀</a> | <a href="https://github.com/lhccong/Coj-backend" target="_blank">COJ判题系统✅</a>  -->
-- 🏡 作品： <a href="https://github.com/LouisYeap/Introduction-to-Golang" target="_blank">Golang之路🔥</a></a> 
-- :pencil: 博客：[CSDN💬](https://blog.csdn.net/weixin_62015493?spm=1000.2115.3001.5343)、[掘金💤](https://juejin.cn/) - 足够硬核，内容老狠了！
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I%27m+LouisYeap+%F0%9F%91%8B" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Rust+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</div>
 
-### ✨ 我的技能(my skills)   
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LouisYeap&theme=radical" />
+</div>
 
-<!-- ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff) -->
-![](https://img.shields.io/badge/-Golang-007BFF?style=flat-square&logo=Golang&logoColor=fff)
-![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
-![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
-<!-- ![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff) -->
-![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
-![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
-![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
-![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
-![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+## 🚀 技术栈
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,go,react,kubernetes,docker,airflow" />
+</div>
 
-## 今年汇总(This year's summary) ✨
+## 💻 开发环境
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=LouisYeap&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYeap&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-### 开发的项目(developed projects)
+<div align="center">
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/>
+</div>
 
-- 业务项目(business projects)
-  <!-- - [微狗实时聊天🔥](https://github.com/lhccong/we-go)
-  - [短链狗短链生成✨](https://github.com/lhccong/short-link-dog-backend)
-  - [COJ判题系统✅](https://github.com/lhccong/Coj-backend)
-  - [万物代码平台🌱](https://github.com/lhccong/wanwu-code-backend)
-  - [SpringBoot 项目快速开发模板⚡](https://github.com/lhccong/springboot-init)
-  - [万物代码生成器🚀](https://github.com/lhccong/wanwu-generator) -->
+## 📊 开发统计
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LouisYeap&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=LouisYeap&theme=radical" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LouisYeap&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LouisYeap&theme=radical" />
+</div>
 
+## 📝 技术博客
 
+<div align="center">
+  <a href="https://blog.csdn.net/weixin_62015493?spm=1000.2115.3001.5343">
+    <img src="https://img.shields.io/badge/CSDN-博客-FF5722?style=for-the-badge&logo=csdn&logoColor=white" />
+  </a>
+</div>
 
-- 组件项目(component projects)
-  <!-- - [轻量级 RPC 框架🚀基于 Netty + Zookeeper](https://github.com/lhccong/CRPC)
-  - [轻量级 RPC 框架🚀基于 Vert.x + Etcd](https://github.com/lhccong/cong-rpc)
-  - [慢 SQL 分析工具🌱](https://github.com/lhccong/sql-slow-mirror)
-  - [小而全的第三方登录工具🧊](https://github.com/lhccong/OneAuth)
-  - [Switch-HTTP 一款控制网络库工具组件💭](https://github.com/lhccong/switch-http)
-  - [AsyncX 一款控制任意的多线程并行、串行、阻塞、依赖、回调的并行框架🛫](https://github.com/lhccong/AsyncX) -->
+## 🌟 开源贡献
 
+<div align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=LouisYeap" />
+</div>
 
+## 🤝 联系我
 
+<div align="center">
+  <a href="https://github.com/LouisYeap">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-### 🎉 Get in touch
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/LouisYeap#%E6%88%91%E6%98%AFlouisyeap)
-### 交个朋友 👬🏻
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em>期待与您交流，一起进步！😊</em>
+</div>
