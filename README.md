@@ -1,10 +1,7 @@
 # <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Hi+there%2C+I%27m+LouisYeap+%F0%9F%91%8B" alt="Typing SVG" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=38&duration=4000&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&height=80&lines=Hello%2C+World!+I'm+LouisYeap+👋;Crafting+code+with+precision+and+passion;Rust+%7C+Python+%7C+Open+Source+Lover" alt="Typing SVG" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=4000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&height=100&lines=Python+Developer;Rust+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +11,7 @@
 ## 🚀 技术栈
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,go,react,kubernetes,docker,airflow" />
+  <img src="https://skillicons.dev/icons?i=python,rust,go,react,kubernetes,docker,airflow" />
 </div>
 
 ## 💻 开发环境
@@ -30,10 +27,6 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LouisYeap&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/languages?username=LouisYeap&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LouisYeap&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LouisYeap&theme=radical" />
 </div>
 
