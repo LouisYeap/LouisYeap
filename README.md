@@ -2,6 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Louis%20Yeap&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=60&animation=twinkling" width="100%"/>
 
+<!-- 可爱的3D鲸鱼动画 - 融入在波浪中 -->
+<div align="center" style="margin-top: -80px; margin-bottom: 20px; position: relative; z-index: 10;">
+  <img src="./whale-animation.svg" width="60%" alt="Cute 3D Swimming Whale" style="opacity: 0.9;" />
+</div>
+
 </div>
 
 <p align="center">

@@ -1,0 +1,173 @@
+<svg width="400" height="150" viewBox="0 0 400 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- 可爱鲸鱼渐变 -->
+    <linearGradient id="cuteWhaleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#87ceeb;stop-opacity:1" />
+      <stop offset="30%" style="stop-color:#4a90e2;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#357abd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2c5aa0;stop-opacity:1" />
+    </linearGradient>
+    
+    <linearGradient id="cuteBelly" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#e6f3ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#b3d9ff;stop-opacity:1" />
+    </linearGradient>
+    
+    <radialGradient id="eyeGradient" cx="30%" cy="30%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="70%" style="stop-color:#f0f8ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e6f3ff;stop-opacity:1" />
+    </radialGradient>
+    
+    <radialGradient id="bubbleGradient" cx="30%" cy="30%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:0.9" />
+      <stop offset="70%" style="stop-color:#87ceeb;stop-opacity:0.5" />
+      <stop offset="100%" style="stop-color:#4682b4;stop-opacity:0.1" />
+    </radialGradient>
+    
+    <radialGradient id="cheekGradient" cx="50%" cy="50%">
+      <stop offset="0%" style="stop-color:#ffb3ba;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#ff9999;stop-opacity:0.3" />
+    </radialGradient>
+    
+    <!-- 滤镜效果 -->
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <filter id="cuteShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  
+  <!-- 简单的水波背景 -->
+  <path d="M0,120 Q100,110 200,120 T400,120 L400,150 L0,150 Z" fill="#b3d9ff" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" values="0,0; -50,0; 0,0" dur="6s" repeatCount="indefinite"/>
+  </path>
+  
+  <!-- 可爱鲸鱼主体 -->
+  <g transform="translate(200,75)" filter="url(#cuteShadow)">
+    <!-- 鲸鱼身体 (更圆润可爱) -->
+    <ellipse cx="0" cy="0" rx="60" ry="25" fill="url(#cuteWhaleGradient)" filter="url(#softGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    
+    <!-- 鲸鱼腹部 (更白更可爱) -->
+    <ellipse cx="0" cy="8" rx="45" ry="18" fill="url(#cuteBelly)" opacity="0.9">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    
+    <!-- 鲸鱼头部 (更圆润) -->
+    <ellipse cx="-40" cy="-2" rx="30" ry="22" fill="url(#cuteWhaleGradient)" filter="url(#softGlow)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    
+    <!-- 可爱的大眼睛 -->
+    <circle cx="-50" cy="-8" r="8" fill="url(#eyeGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-48" cy="-10" r="5" fill="#2c5aa0">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-46" cy="-12" r="2" fill="#ffffff">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    
+    <!-- 眨眼动画 -->
+    <ellipse cx="-50" cy="-8" rx="8" ry="0" fill="url(#cuteWhaleGradient)" opacity="0">
+      <animate attributeName="ry" values="0;8;0" dur="3s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;0" dur="0.3s" begin="2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    
+    <!-- 可爱的脸颊红晕 -->
+    <ellipse cx="-35" cy="5" rx="8" ry="5" fill="url(#cheekGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </ellipse>
+    
+    <!-- 微笑的嘴巴 -->
+    <path d="M-60,2 Q-55,8 -50,2" stroke="#2c5aa0" stroke-width="2" fill="none" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+    
+    <!-- 可爱的心形尾巴 -->
+    <path d="M60,0 Q70,-8 80,-4 Q85,0 80,4 Q75,8 70,4 Q65,0 60,0" fill="url(#cuteWhaleGradient)" filter="url(#softGlow)">
+      <animateTransform attributeName="transform" type="rotate" values="0 60 0; -10 60 0; 0 60 0; 8 60 0; 0 60 0" dur="2.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    
+    <!-- 小巧的胸鳍 -->
+    <ellipse cx="-15" cy="15" rx="12" ry="8" fill="url(#cuteWhaleGradient)" transform="rotate(-15)">
+      <animateTransform attributeName="transform" type="rotate" values="-15 -15 15; -25 -15 15; -15 -15 15; -5 -15 15; -15 -15 15" dur="2.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </ellipse>
+    
+    <ellipse cx="15" cy="15" rx="12" ry="8" fill="url(#cuteWhaleGradient)" transform="rotate(15)">
+      <animateTransform attributeName="transform" type="rotate" values="15 15 15; 25 15 15; 15 15 15; 5 15 15; 15 15 15" dur="2.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite" additive="sum"/>
+    </ellipse>
+    
+    <!-- 小背鳍 -->
+    <path d="M10,-25 Q15,-35 20,-30 Q18,-22 10,-25" fill="url(#cuteWhaleGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-3; 0,0; 0,2; 0,0" dur="3s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  
+  <!-- 可爱的小水花 -->
+  <g transform="translate(160,50)">
+    <circle cx="0" cy="0" r="2" fill="#87ceeb" opacity="0.8">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -5,-15; -10,-30" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="1;3;1" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="8" cy="0" r="1.5" fill="#87ceeb" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -3,-12; -6,-25" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-5" cy="0" r="1.8" fill="#87ceeb" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" values="0,0; -2,-10; -4,-20" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- 可爱的小气泡 -->
+  <g opacity="0.7">
+    <circle cx="100" cy="100" r="2" fill="url(#bubbleGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-50; 0,-100" dur="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="120" cy="110" r="1.5" fill="url(#bubbleGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-60; 0,-120" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="105" r="1.8" fill="url(#bubbleGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-45; 0,-90" dur="2.2s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="2.2s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="320" cy="115" r="2.2" fill="url(#bubbleGradient)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-55; 0,-110" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="2.8s" begin="0.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  
+  <!-- 爱心特效 -->
+  <g opacity="0.6">
+    <path d="M180,30 C180,25 185,20 190,20 C195,20 200,25 200,30 C200,35 190,45 190,45 C190,45 180,35 180,30 Z" fill="#ffb3ba">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 5,-20; 10,-40" dur="3s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="3s" begin="1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="0.5;1;0.5" dur="3s" begin="1s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <path d="M220,35 C220,32 223,29 226,29 C229,29 232,32 232,35 C232,38 226,45 226,45 C226,45 220,38 220,35 Z" fill="#ffb3ba">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 3,-15; 6,-30" dur="2.5s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="2.5s" begin="2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="scale" values="0.3;0.8;0.3" dur="2.5s" begin="2s" repeatCount="indefinite" additive="sum"/>
+    </path>
+  </g>
+  
+  <!-- 整体轻微摆动 -->
+  <animateTransform attributeName="transform" type="translate" values="0,0; 5,0; 0,0; -3,0; 0,0" dur="6s" repeatCount="indefinite"/>
+</svg>
