@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Louis%20Yeap&fontSize=90&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=60&animation=twinkling" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Louis%20Yeap&fontSize=80&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Innovator&descAlignY=60&animation=twinkling" width="100%"/>
 
-<!-- 可爱的3D鲸鱼动画 - 融入在波浪中 -->
-<div align="center" style="margin-top: -80px; margin-bottom: 20px; position: relative; z-index: 10;">
-  <img src="./whale-animation.svg" width="60%" alt="Cute 3D Swimming Whale" style="opacity: 0.9;" />
+<!-- Whale Animation -->
+<div align="center" style="margin-top: -70px; position: relative; z-index: 10;">
+  <img src="./whale-animation.svg" width="55%" alt="Cute 3D Swimming Whale" />
 </div>
 
-</div>
-
+<!-- Social Badges -->
 <p align="center">
   <a href="https://github.com/LouisYeap">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=FF6B6B" />
@@ -16,79 +16,96 @@
   <a href="https://blog.csdn.net/weixin_62015493?spm=1000.2115.3001.5343">
     <img src="https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&labelColor=0D1117&color=4ECDC4" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=LouisYeap&style=for-the-badge&color=45B7D1&labelColor=0D1117&label=Profile%20Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=LouisYeap&style=for-the-badge&color=45B7D1&labelColor=0D1117&label=Views" alt="Profile views" />
 </p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1500&color=4A90E2&center=true&vCenter=true&width=900&height=80&lines=I'm+Minimalist;No+alcohol,+no+caffeine,+no+recreational+drinks;Too+many+fetters+can+lead+to+disorientation" alt="Typing SVG" />
+<!-- Typing Tagline -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1500&color=4A90E2&center=true&vCenter=true&width=800&height=70&lines=Full%20Stack%20Developer;Minimalist%20%7C%20No%20alcohol%20%7C%20No%20caffeine;Always%20learning%2C%20always%20building" alt="Typing SVG" />
+
 </div>
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-  About Me
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
-</h2>
+## 👤 About Me
 
 <p align="center">
-  <em>Passionate developer who loves turning ideas into reality through code</em>
+  <em>Passionate developer who loves turning ideas into reality through code.</em>
   <br>
-  <strong>🚀 Always learning, always building, always innovating</strong>
-  <br>
-  <em>I believe code is not just a tool, but an art form that shapes the digital world</em>
+  <strong>🚀 Always learning, always building, always innovating.</strong>
+  <br><br>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18" /> I believe code is not just a tool, but an <strong>art form</strong> that shapes the digital world.
 </p>
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  Tech Arsenal
-</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,rust,go,react,js,ts,html,css,docker,kubernetes,git,vscode&perline=12" />
 </div>
 
-<br>
+---
+
+## 📦 Featured Projects
+
+<p align="center">Click any card to explore the repository.</p>
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" valign="top" style="padding: 8px;">
+
+[**🤖 AI-Learning-Journey**](https://github.com/LouisYeap/AI-Learning-Journey)
+<br>*PyTorch · LangChain · NumPy · Pandas · Algorithms*
+<br>记录 AI 核心技术学习之路，涵盖深度学习框架、LLM 应用开发、数据处理与算法训练。
+
+    </td>
+    <td width="50%" valign="top" style="padding: 8px;">
+
+[**⛓️ simple_bitcoin_chain_python**](https://github.com/LouisYeap/simple_bitcoin_chain_python)
+<br>*Python · Blockchain · Merkle Tree · Proof of Work*
+<br>简化版比特币区块链 Python 实现，用于学习区块链核心概念：POW、默克尔树、动态难度调整。
+
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYeap&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouisYeap&theme=synthwave&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=45B7D1&border_radius=15" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYeap&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=FFFFFF&border_radius=15" width="46%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LouisYeap&theme=synthwave&hide_border=true&background=0D1117&ring=FF6B6B&fire=4ECDC4&currStreakLabel=45B7D1&border_radius=15" width="46%" />
 </div>
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  GitHub Analytics
-</h2>
+## 🧑‍💻 Contribution Activity
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LouisYeap&theme=synthwave" width="100%" />
 </div>
 
-<br>
+---
+
+## ⏱️ Productivity & Contribution Stats
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LouisYeap&theme=synthwave" height="180" />
+      <td width="50%" align="center" style="padding: 4px;">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LouisYeap&theme=synthwave" height="175" />
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-contribution-stats.vercel.app/api/?username=LouisYeap&theme=synthwave" height="180" />
+      <td width="50%" align="center" style="padding: 4px;">
+        <img src="https://github-contribution-stats.vercel.app/api/?username=LouisYeap&theme=synthwave" height="175" />
       </td>
     </tr>
   </table>
 </div>
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-  Development Environment
-</h2>
+## 💻 Development Environment
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=FF6B6B&labelColor=0D1117"/>
@@ -96,47 +113,33 @@
   <img src="https://img.shields.io/badge/Shell-Zsh-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=45B7D1&labelColor=0D1117"/>
 </p>
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  Core Values
-</h2>
+## 🌟 Core Values
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0" style="border:none;">
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="80" />
-        <br>
-        <strong>Innovation</strong>
-        <br>
-        <small>Constantly exploring new technologies</small>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle" width="80" />
-        <br>
-        <strong>Problem Solving</strong>
-        <br>
-        <small>Breaking complex challenges into solutions</small>
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/raw/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="80" />
-        <br>
-        <strong>Continuous Learning</strong>
-        <br>
-        <small>Growing through curiosity and practice</small>
-      </td>
-    </tr>
-  </table>
-</div>
+<table border="0" align="center" cellspacing="20" cellpadding="0">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" />
+      <br><strong>Innovation</strong>
+      <br><small>Exploring new technologies</small>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Puzzle%20Piece.png" alt="Puzzle" width="50" />
+      <br><strong>Problem Solving</strong>
+      <br><small>Breaking complex challenges</small>
+    </td>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light" width="50" />
+      <br><strong>Continuous Learning</strong>
+      <br><small>Growing through curiosity</small>
+    </td>
+  </tr>
+</table>
 
-<br>
+---
 
-<h2 align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
-  Let's Connect
-</h2>
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://github.com/LouisYeap">
@@ -147,20 +150,14 @@
   </a>
 </p>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <br>
-  <em>✨ "Code is poetry written in logic" ✨</em>
-  <br>
-  <strong>Let's build something amazing together!</strong>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=400&height=20&lines=Thanks+for+visiting+my+profile!;Happy+coding!+%F0%9F%9A%80" alt="Footer" />
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=11&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=380&height=18&lines=Thanks%20for%20visiting!;Happy%20coding!%20%F0%9F%9A%80" />
+    <br><br>
+    <em>"Code is poetry written in logic."</em>
+  </p>
 </div>
