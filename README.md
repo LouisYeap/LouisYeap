@@ -18,11 +18,6 @@ Full Stack Developer | AI Enthusiast
 
 **AI/ML:** PyTorch, TensorFlow, LangChain, NumPy, Pandas
 
-## Projects
-
-- [AI-Learning-Journey](https://github.com/LouisYeap/AI-Learning-Journey) - Deep Learning & LLM Development
-- [Simple Bitcoin Chain](https://github.com/LouisYeap/simple_bitcoin_chain_python) - Python Bitcoin Implementation
-
 ## Currently Exploring
 
 - Advanced LLM Architecture & Fine-tuning
