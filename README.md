@@ -1,6 +1,6 @@
 # Louis Yeap
 
-Full Stack Developer | AI & Blockchain Enthusiast
+Full Stack Developer | AI Enthusiast
 
 ## About Me
 
@@ -18,8 +18,6 @@ Full Stack Developer | AI & Blockchain Enthusiast
 
 **AI/ML:** PyTorch, TensorFlow, LangChain, NumPy, Pandas
 
-**Blockchain:** Solidity, Web3, Bitcoin
-
 ## Projects
 
 - [AI-Learning-Journey](https://github.com/LouisYeap/AI-Learning-Journey) - Deep Learning & LLM Development
@@ -27,10 +25,10 @@ Full Stack Developer | AI & Blockchain Enthusiast
 
 ## Currently Exploring
 
-- Advanced LLM Architecture
-- Web3 Protocols & Smart Contracts
+- Advanced LLM Architecture & Fine-tuning
 - Systems Design
 - Rust Performance
+- Full-Stack Architecture
 
 ## Connect
 
