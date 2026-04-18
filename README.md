@@ -27,6 +27,4 @@ Full Stack Developer | AI Enthusiast
 
 ## Connect
 
-- [GitHub](https://github.com/LouisYeap)
 - [CSDN Blog](https://blog.csdn.net/weixin_62015493)
-- Email: louisyeap@example.com
